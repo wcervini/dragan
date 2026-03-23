@@ -10,5 +10,5 @@
 
 - Haga un PULL REQUEST en la rama master solicitando el nuevo idioma
 - [x] Write the press release
-- [✔] Update the website
+- [ ] Update the website
 - [ ] Contact the media
